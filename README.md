@@ -6,4 +6,8 @@ Para a criação do projeto, foi-se utilizado a IDE Eclipse Version: 2021-06 (4.
 
 2 - Inserir nas variáveis do sistema path o caminho do chromedriver
 
-3 - Abrir o projeto em pela IDE e executar
+3 - Abrir o projeto em pela IDE
+
+4 - Inserir um e-email e senha cadastrados no site Amazon (Site utilizado para teste automatizado de login)
+
+5 - Executar o projeto
